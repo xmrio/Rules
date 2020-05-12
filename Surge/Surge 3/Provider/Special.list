@@ -11,8 +11,7 @@ PROCESS-NAME,v2ray
 PROCESS-NAME,ss-local
 
 # > Steam
-USER-AGENT,Steam*
-DOMAIN-SUFFIX,steamcontent.com
+# DOMAIN-SUFFIX,steamcontent.com
 
 # > UUBooster
 PROCESS-NAME,UUBooster
