@@ -8505,6 +8505,7 @@
 # - USER-AGENT,TencentMidasConnect*,AsianTV
 
 # > Tencent Video
+- DOMAIN-SUFFIX,v.smtcdns.com,AsianTV
 - DOMAIN-SUFFIX,vv.video.qq.com,AsianTV
 
 # > Youku
@@ -9709,6 +9710,7 @@
 - DOMAIN,apm3.music.163.com,Netease Music
 - DOMAIN,interface.music.163.com,Netease Music
 - DOMAIN,interface3.music.163.com,Netease Music
+- DOMAIN,music.126.com,Netease Music
 - DOMAIN,music.163.com,Netease Music
 - IP-CIDR,101.71.154.241/32,Netease Music
 - IP-CIDR,103.126.92.132/32,Netease Music
@@ -9793,6 +9795,7 @@
 - DOMAIN-SUFFIX,anthonycalzadilla.com,Proxy
 - DOMAIN-SUFFIX,aol.com,Proxy
 - DOMAIN-SUFFIX,aolcdn.com,Proxy
+- DOMAIN-SUFFIX,apache.org,Proxy
 - DOMAIN-SUFFIX,api.mixpanel.com,Proxy
 - DOMAIN-SUFFIX,api.termius.com,Proxy
 - DOMAIN-SUFFIX,api.tiktokv.com,Proxy
@@ -9980,6 +9983,7 @@
 - DOMAIN-SUFFIX,imgur.com,Proxy
 - DOMAIN-SUFFIX,imore.com,Proxy
 - DOMAIN-SUFFIX,ingress.com,Proxy
+- DOMAIN-SUFFIX,inoreader.com,Proxy
 - DOMAIN-SUFFIX,insder.co,Proxy
 - DOMAIN-SUFFIX,instapaper.com,Proxy
 - DOMAIN-SUFFIX,instructables.com,Proxy
@@ -10533,7 +10537,6 @@
 - DOMAIN-SUFFIX,aliyun.com,Domestic
 - DOMAIN-SUFFIX,aliyuncs.com,Domestic
 - DOMAIN-SUFFIX,amap.com,Domestic
-- DOMAIN-SUFFIX,apache.org,Domestic
 - DOMAIN-SUFFIX,api.crisp.chat,Domestic
 - DOMAIN-SUFFIX,appshike.com,Domestic
 - DOMAIN-SUFFIX,appstore.com,Domestic
