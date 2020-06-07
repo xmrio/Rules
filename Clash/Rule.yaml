@@ -3194,7 +3194,6 @@
 - DOMAIN-SUFFIX,e.qiaoyuwang.com,AdBlock
 - DOMAIN-SUFFIX,e.qingzhencai.net,AdBlock
 - DOMAIN-SUFFIX,e.qiyunmuye.com,AdBlock
-- DOMAIN-SUFFIX,e.qq.com,AdBlock
 - DOMAIN-SUFFIX,e.qsove.com,AdBlock
 - DOMAIN-SUFFIX,e.qvxyz.com,AdBlock
 - DOMAIN-SUFFIX,e.qxfly.com,AdBlock
@@ -8708,9 +8707,11 @@
 # - USER-AGENT,*youtube*,GlobalTV
 # - USER-AGENT,YouTube*,GlobalTV
 - DOMAIN-KEYWORD,youtube,GlobalTV
+- DOMAIN,yt3.ggpht.com,GlobalTV
 - DOMAIN-SUFFIX,googlevideo.com,GlobalTV
 - DOMAIN-SUFFIX,gvt2.com,GlobalTV
 - DOMAIN-SUFFIX,youtu.be,GlobalTV
+- DOMAIN-SUFFIX,ytimg.com,GlobalTV
 
 
 
@@ -9864,6 +9865,7 @@
 - DOMAIN-SUFFIX,chromestatus.com,Proxy
 - DOMAIN-SUFFIX,chromium.org,Proxy
 - DOMAIN-SUFFIX,cl.ly,Proxy
+- DOMAIN-SUFFIX,clien.net,Proxy
 - DOMAIN-SUFFIX,cloudflare.com,Proxy
 - DOMAIN-SUFFIX,cloudfront.net,Proxy
 - DOMAIN-SUFFIX,cloudgarage.jp,Proxy
