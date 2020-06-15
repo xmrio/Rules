@@ -9635,9 +9635,11 @@
 
 # > Spotify
 # - USER-AGENT,*Spotify*,Spotify
-- DOMAIN-KEYWORD,spotify,Spotify
+- DOMAIN-SUFFIX,pscdn.co,Spotify
 - DOMAIN-SUFFIX,scdn.co,Spotify
 - DOMAIN-SUFFIX,spoti.fi,Spotify
+- DOMAIN-SUFFIX,spotify.com,Spotify
+- DOMAIN-SUFFIX,spotifycdn.net,Spotify
 
 
 # > Telegram
@@ -10029,6 +10031,7 @@
 - DOMAIN-SUFFIX,macid.co,Proxy
 - DOMAIN-SUFFIX,macromedia.com,Proxy
 - DOMAIN-SUFFIX,macrumors.com,Proxy
+- DOMAIN-SUFFIX,mangaup.jp,Proxy
 - DOMAIN-SUFFIX,manhuaren.com,Proxy
 - DOMAIN-SUFFIX,marketwatch.com,Proxy
 - DOMAIN-SUFFIX,mashable.com,Proxy
@@ -10054,7 +10057,9 @@
 - DOMAIN-SUFFIX,netdna-cdn.com,Proxy
 - DOMAIN-SUFFIX,newipnow.com,Proxy
 - DOMAIN-SUFFIX,nextmedia.com,Proxy
+- DOMAIN-SUFFIX,nicovideo.jp,Proxy
 - DOMAIN-SUFFIX,nih.gov,Proxy
+- DOMAIN-SUFFIX,nimg.jp,Proxy
 - DOMAIN-SUFFIX,nintendo.com,Proxy
 - DOMAIN-SUFFIX,nintendo.net,Proxy
 - DOMAIN-SUFFIX,notion.so,Proxy
