@@ -8604,6 +8604,7 @@
 
 # > Fox+ (HK|TW|SG)
 # - USER-AGENT,FOXPlus*,GlobalTV
+- DOMAIN-SUFFIX,akamaized.net,GlobalTV
 - DOMAIN-SUFFIX,foxplus.com,GlobalTV
 - DOMAIN-SUFFIX,theplatform.com,GlobalTV
 
