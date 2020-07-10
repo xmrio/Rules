@@ -8532,6 +8532,7 @@
 - DOMAIN-SUFFIX,amazonaws.com,GlobalTV
 - DOMAIN-SUFFIX,amazonvideo.com,GlobalTV
 - DOMAIN-SUFFIX,llnwd.net,GlobalTV
+- DOMAIN-SUFFIX,primevideo.com,GlobalTV
 
 # > Apple News and Apple Map TOMTOM Version
 # - USER-AGENT,AppleNews*,GlobalTV
