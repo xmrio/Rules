@@ -22,7 +22,5 @@ dns:
     - https://dns.alidns.com/dns-query
     - https://1.1.1.1/dns-query
     - tls://dns.adguard.com:853
-  fallback:
-    - tcp://1.1.1.1
   # experimental:
   #   interface-name: WLAN
