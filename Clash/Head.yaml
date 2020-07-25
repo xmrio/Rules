@@ -1,5 +1,6 @@
 port: 8888
 socks-port: 8889
+mixed-port: 8899
 allow-lan: true
 mode: Rule
 log-level: info
