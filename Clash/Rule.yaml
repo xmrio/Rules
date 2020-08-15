@@ -8420,6 +8420,12 @@
 - DOMAIN,safebrowsing.googleapis.com,DIRECT
 - DOMAIN-SUFFIX,dl.google.com,DIRECT
 
+# > Microsoft
+- DOMAIN-SUFFIX,msftconnecttest.com,DIRECT
+
+# > Mugglepay
+- DOMAIN-SUFFIX,invoice.mugglepay.com,DIRECT
+
 # > Steam
 # - USER-AGENT,Steam*,DIRECT
 - DOMAIN-SUFFIX,pinyuncloud.com,DIRECT
@@ -9668,8 +9674,6 @@
 - DOMAIN-SUFFIX,windows.net,Microsoft
 - DOMAIN-SUFFIX,xbox.com,Microsoft
 - DOMAIN-SUFFIX,xboxlive.com,Microsoft
-
-- DOMAIN-SUFFIX,msftconnecttest.com,DIRECT
 
 
 
