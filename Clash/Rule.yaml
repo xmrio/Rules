@@ -9637,6 +9637,9 @@
 - DOMAIN-KEYWORD,speedtest,Speedtest
 - DOMAIN-SUFFIX,ooklaserver.net,Speedtest
 
+# > Speed Test by Cloudflare
+- DOMAIN-SUFFIX,speed.cloudflare.com,Speedtest
+
 
 
 # > PayPal
