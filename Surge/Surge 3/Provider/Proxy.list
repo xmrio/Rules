@@ -20,6 +20,9 @@ DOMAIN-SUFFIX,app.smartmailcloud.com
 DOMAIN-SUFFIX,gate.hockeyapp.net
 DOMAIN-SUFFIX,smartmailcloud.com
 
+# > Tesla
+DOMAIN-KEYWORD,tesla
+
 # > Zooba
 USER-AGENT,battleroyale*
 
