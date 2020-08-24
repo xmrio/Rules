@@ -9738,6 +9738,9 @@
 - DOMAIN-SUFFIX,steampowered.com,Steam
 - DOMAIN-SUFFIX,steamstatic.com,Steam
 
+# > Tesla
+- DOMAIN-KEYWORD,tesla,Proxy
+
 # > Top blocked sites
 - DOMAIN-SUFFIX,2o7.net,Proxy
 - DOMAIN-SUFFIX,4everProxy.com,Proxy
