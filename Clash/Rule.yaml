@@ -9709,6 +9709,9 @@
 
 
 
+# > TestFlight
+- DOMAIN,testflight.apple.com,Proxy
+
 # > Line
 - DOMAIN-SUFFIX,lin.ee,Proxy
 - DOMAIN-SUFFIX,line.me,Proxy
