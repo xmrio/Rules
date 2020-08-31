@@ -20,3 +20,6 @@ dns:
     - https://dns.alidns.com/dns-query
     - https://1.1.1.1/dns-query
     - tls://dns.adguard.com:853
+clash-for-android: 
+  # append-system-dns: true # 追加系统 DNS 到 nameserver 
+  ui-subtitle-pattern: "[\u4e00-\u9fa5]{2,4}"
