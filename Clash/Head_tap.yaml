@@ -1,16 +1,16 @@
 port: 8888
-socks-port: 8889
+mixed-port: 8888
 mixed-port: 8899
 allow-lan: true
 mode: Rule
 log-level: info
-external-controller: 127.0.0.1:6170
+external-controller: '127.0.0.1:6170'
 experimental:
   ignore-resolve-fail: true
 dns:
   enable: true
   ipv6: false
-  listen: 127.0.0.1:53
+  listen: '0.0.0.0:53'
   enhanced-mode: fake-ip
   default-nameserver:
     - 119.29.29.29
@@ -20,9 +20,9 @@ dns:
     - '*.lan'
     - localhost.ptlogin2.qq.com
   nameserver:
-    - https://dns.alidns.com/dns-query
-    - https://1.1.1.1/dns-query
-    - tls://dns.adguard.com:853
+    - 'https://dns.alidns.com/dns-query'
+    - 'https://1.1.1.1/dns-query'
+    - 'tls://dns.adguard.com:853'
   # experimental:
   # interface-name: WLAN
 clash-for-android: 
